@@ -1,0 +1,12 @@
+{
+  "name": "QR Code Bot App",
+  "description": "",
+  "keywords": [],
+  "addons": [],
+  "env": {},
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
